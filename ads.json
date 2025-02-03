@@ -1,1 +1,18 @@
-{}
+{
+    "test1": {
+        "projectName": "test1",
+        "description": "Test",
+        "type": "community",
+        "author": "executeinc",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/executeinc/agama",
+        "githubUri": "https://github.com/executeinc/agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1738549705013",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
