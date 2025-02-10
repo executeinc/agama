@@ -13,6 +13,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "global.meus.password": {}
+        },
+        "name": "test1"
     }
 }
