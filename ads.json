@@ -17,5 +17,21 @@
             "global.meus.password": {}
         },
         "name": "test1"
+    },
+    "test2": {
+        "projectName": "test2",
+        "description": "test2",
+        "type": "community",
+        "author": "executeinc",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/executeinc/agama",
+        "githubUri": "https://github.com/executeinc/agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1739288455812",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
